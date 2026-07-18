@@ -1,5 +1,5 @@
 require-resource-pack=false
-resource-pack=https\://raw.githubusercontent.com/VesperMCNetwork/Resource/main/Vespermc.zip
+resource-pack=https\://raw.githubusercontent.com/VesperMCNetwork/Resource/main/Vespermc-1.2.0.zip
 resource-pack-id=
 resource-pack-prompt=
-resource-pack-sha1=305e74f0051d971a6e942cf6d81909dfc0280b00
+resource-pack-sha1=8e56f3fded5cdd5e1a0270e31379f9cbe632ed78
