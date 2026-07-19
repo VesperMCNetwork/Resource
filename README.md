@@ -2,16 +2,16 @@
 
 Server resource pack for VesperCI.
 
-Latest version (VesperCI 1.2.0):
+Latest version (VesperCI 1.3.0):
 
-`https://raw.githubusercontent.com/VesperMCNetwork/Resource/main/Vespermc-1.2.0.zip`
+`https://raw.githubusercontent.com/VesperMCNetwork/Resource/main/Vespermc-1.3.0.zip`
 
 SHA-1:
 
-`8e56f3fded5cdd5e1a0270e31379f9cbe632ed78`
+`d8b4ea51e4ee7d3d05c9178d6fee3be677b6bc3f`
 
-Previous stable pack (VesperCI 1.1.0):
+Previous stable pack (VesperCI 1.2.0):
 
-`https://raw.githubusercontent.com/VesperMCNetwork/Resource/main/Vespermc.zip`
+`https://raw.githubusercontent.com/VesperMCNetwork/Resource/main/Vespermc-1.2.0.zip`
 
-SHA-1: `305e74f0051d971a6e942cf6d81909dfc0280b00`
+SHA-1: `8e56f3fded5cdd5e1a0270e31379f9cbe632ed78`
