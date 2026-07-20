@@ -1,5 +1,0 @@
-require-resource-pack=true
-resource-pack=https\://github.com/VesperMCNetwork/Resource/releases/download/public/release.zip
-resource-pack-id=
-resource-pack-prompt=
-resource-pack-sha1=7ac85c190cd55734331e373b9fe840e0b24f2b74
